@@ -1,0 +1,94 @@
+* {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
+
+/*.container {
+  background-color: red;
+}*/
+
+/*.container {
+  background-color: red;
+}*/
+
+.Ithais {
+  width: 800px;
+  border-width: 10px;
+  border-color: red;
+  border-style: groove;
+  /*background-color: red;*/
+  margin: 10px;
+}
+
+.Irayito {
+  width: 800px;
+  border-width: 10px;
+  border-color: green;
+  border-style: groove;
+  border-radius: 100px;
+  margin: 10px;
+}
+
+.Iminnie {
+  margin: 10px;
+  width: 800px;
+  border-width: 10px;
+  border-color: blue;
+  border-style: groove;
+  border-radius: 100px;
+}
+
+
+
+h2 {
+  font-family: 'Ephesis', cursive;
+  font-size: 50px;
+  color: purple;
+}
+
+h3 {
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  color: green;
+}
+
+p {
+  font-size: 30px;
+  color: yellow;
+  font-family: 'Stick No Bills', sans-serif;
+}
+
+#megusta {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: purple;
+}
+
+/*.containerThais {
+  background-color: rgb(227, 7, 247);
+}*/
+
+/*.containerIthais {
+  background-color: rgb(227, 7, 247);
+}*/
+
+input[type="radio"] {
+  margin: 5px;
+}
+
+input[type="checkbox"] {
+  margin: 8px;
+}
+
+body {
+  background-color: hotpink;
+}
+
+.container {
+  display: initial; /* Cambia el valor display según tus necesidades */
+  justify-content: initial; /* Cambia el valor justify-content según tus necesidades */
+  align-items: initial; /* Cambia el valor align-items según tus necesidades */
+  flex-direction: initial; /* Cambia el valor flex-direction según tus necesidades */
+}
